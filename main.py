@@ -38,7 +38,7 @@ def main():
                 list1.append([a, b])
         elif optiune == "2":
             list2 = []
-            for i in range(0, 8):
+            for i in range(0, 9):
                 print("Dati enter dupa introducerea nodului: ")
                 ele2 = float(input())
                 list2.append(ele2)
